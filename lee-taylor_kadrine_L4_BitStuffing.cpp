@@ -1,11 +1,3 @@
-/*
-Name: Kadrine Lee-Taylor
-Lab 4 - Bit Stuffing 
-Student #: 102-399-201
-Class Section: DCF255 NDD
-Professor: Stan Szlapetis
-Date: February 8th, 2021
-*/
 
 
 #define _CRT_SECURE_NO_WARNINGS
